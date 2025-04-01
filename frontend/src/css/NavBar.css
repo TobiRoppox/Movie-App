@@ -17,6 +17,11 @@
     display: flex;
     gap: 2rem;
   }
+
+  .navbar-logo {
+    height: 50px; 
+    width: auto;
+}
   
   .nav-link {
     font-size: 1rem;
